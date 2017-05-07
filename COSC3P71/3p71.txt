@@ -1,0 +1,20 @@
+https://code.google.com/p/15-puzzle-solvers/source/browse/AIProject/src/?r=40#src%2FPuzzle
+
+
+http://uhaweb.hartford.edu/compsci/ccli/projects/NPuzzle.pdf
+
+
+http://stackoverflow.com/questions/7802290/n-puzzle-solving-with-a-algorithm-using-c
+
+http://stackoverflow.com/questions/12019238/solve-n-puzzle-in-java
+
+https://code.google.com/p/n-puzzle/source/browse/#svn%2Ftrunk%2Fn-puzzle-core%2Fsrc%2Fmain%2Fjava%2Fcom%2Fgooglecode%2Fnpuzzle%2Flogic%2Fastar
+
+
+output should have:
+-start state
+-goal state
+-# of steps taken to reach goal
+-time taken to reach goal
+
+(maybe graphical representation)

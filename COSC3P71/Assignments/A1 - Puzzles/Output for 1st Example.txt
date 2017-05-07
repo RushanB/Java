@@ -1,0 +1,162 @@
+
+Priority = 10
+# of Steps Left = 10
+# of Tiles Moved = 0
+0 1 3
+4 2 5
+7 8 6
+
+Priority = 12
+# of Steps Left = 11
+# of Tiles Moved = 1
+1 0 3
+4 2 5
+7 8 6
+
+Priority = 12
+# of Steps Left = 10
+# of Tiles Moved = 2
+1 2 3
+4 0 5
+7 8 6
+
+Priority = 12
+# of Steps Left = 9
+# of Tiles Moved = 3
+1 2 3
+0 4 5
+7 8 6
+
+Priority = 14
+# of Steps Left = 10
+# of Tiles Moved = 4
+1 2 3
+7 4 5
+0 8 6
+
+Priority = 16
+# of Steps Left = 11
+# of Tiles Moved = 5
+1 2 3
+7 4 5
+8 0 6
+
+Priority = 16
+# of Steps Left = 10
+# of Tiles Moved = 6
+1 2 3
+7 4 5
+8 6 0
+
+Priority = 18
+# of Steps Left = 11
+# of Tiles Moved = 7
+1 2 3
+7 4 0
+8 6 5
+
+Priority = 18
+# of Steps Left = 10
+# of Tiles Moved = 8
+1 2 0
+7 4 3
+8 6 5
+
+Priority = 18
+# of Steps Left = 9
+# of Tiles Moved = 9
+1 0 2
+7 4 3
+8 6 5
+
+Priority = 20
+# of Steps Left = 10
+# of Tiles Moved = 10
+1 4 2
+7 0 3
+8 6 5
+
+Priority = 22
+# of Steps Left = 11
+# of Tiles Moved = 11
+1 4 2
+7 6 3
+8 0 5
+
+Priority = 22
+# of Steps Left = 10
+# of Tiles Moved = 12
+1 4 2
+7 6 3
+0 8 5
+
+Priority = 22
+# of Steps Left = 9
+# of Tiles Moved = 13
+1 4 2
+0 6 3
+7 8 5
+
+Priority = 22
+# of Steps Left = 8
+# of Tiles Moved = 14
+1 4 2
+6 0 3
+7 8 5
+
+Priority = 22
+# of Steps Left = 7
+# of Tiles Moved = 15
+1 4 2
+6 3 0
+7 8 5
+
+Priority = 22
+# of Steps Left = 6
+# of Tiles Moved = 16
+1 4 2
+6 3 5
+7 8 0
+
+Priority = 22
+# of Steps Left = 5
+# of Tiles Moved = 17
+1 4 2
+6 3 5
+7 0 8
+
+Priority = 22
+# of Steps Left = 4
+# of Tiles Moved = 18
+1 4 2
+6 3 5
+0 7 8
+
+Priority = 22
+# of Steps Left = 3
+# of Tiles Moved = 19
+1 4 2
+0 3 5
+6 7 8
+
+Priority = 22
+# of Steps Left = 2
+# of Tiles Moved = 20
+1 4 2
+3 0 5
+6 7 8
+
+Priority = 22
+# of Steps Left = 1
+# of Tiles Moved = 21
+1 0 2
+3 4 5
+6 7 8
+
+Priority = 22
+# of Steps Left = 0
+# of Tiles Moved = 22
+0 1 2
+3 4 5
+6 7 8
+Time Taken(ms) = 31
